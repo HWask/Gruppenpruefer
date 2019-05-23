@@ -1,0 +1,11 @@
+c:\users\str8\documents\visual studio 2015\Projects\Gruppenprüfer\Gruppenprüfer\bin\Release\Gruppenprüfer.exe.config
+c:\users\str8\documents\visual studio 2015\Projects\Gruppenprüfer\Gruppenprüfer\bin\Release\Gruppenprüfer.exe
+c:\users\str8\documents\visual studio 2015\Projects\Gruppenprüfer\Gruppenprüfer\bin\Release\Gruppenprüfer.pdb
+c:\users\str8\documents\visual studio 2015\Projects\Gruppenprüfer\Gruppenprüfer\bin\Release\HtmlAgilityPack.dll
+c:\users\str8\documents\visual studio 2015\Projects\Gruppenprüfer\Gruppenprüfer\bin\Release\HtmlAgilityPack.pdb
+c:\users\str8\documents\visual studio 2015\Projects\Gruppenprüfer\Gruppenprüfer\bin\Release\HtmlAgilityPack.xml
+c:\users\str8\documents\visual studio 2015\Projects\Gruppenprüfer\Gruppenprüfer\obj\Release\Gruppenprüfer.Form1.resources
+c:\users\str8\documents\visual studio 2015\Projects\Gruppenprüfer\Gruppenprüfer\obj\Release\Gruppenprüfer.Properties.Resources.resources
+c:\users\str8\documents\visual studio 2015\Projects\Gruppenprüfer\Gruppenprüfer\obj\Release\Gruppenprüfer.csproj.GenerateResource.Cache
+c:\users\str8\documents\visual studio 2015\Projects\Gruppenprüfer\Gruppenprüfer\obj\Release\Gruppenprüfer.exe
+c:\users\str8\documents\visual studio 2015\Projects\Gruppenprüfer\Gruppenprüfer\obj\Release\Gruppenprüfer.pdb

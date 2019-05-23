@@ -1,0 +1,12 @@
+c:\users\str8\documents\visual studio 2015\Projects\Gruppenprüfer\Gruppenprüfer\bin\Debug\Gruppenprüfer.exe.config
+c:\users\str8\documents\visual studio 2015\Projects\Gruppenprüfer\Gruppenprüfer\bin\Debug\Gruppenprüfer.exe
+c:\users\str8\documents\visual studio 2015\Projects\Gruppenprüfer\Gruppenprüfer\bin\Debug\Gruppenprüfer.pdb
+c:\users\str8\documents\visual studio 2015\Projects\Gruppenprüfer\Gruppenprüfer\bin\Debug\HtmlAgilityPack.dll
+c:\users\str8\documents\visual studio 2015\Projects\Gruppenprüfer\Gruppenprüfer\bin\Debug\HtmlAgilityPack.pdb
+c:\users\str8\documents\visual studio 2015\Projects\Gruppenprüfer\Gruppenprüfer\bin\Debug\HtmlAgilityPack.xml
+c:\users\str8\documents\visual studio 2015\Projects\Gruppenprüfer\Gruppenprüfer\obj\Debug\Gruppenprüfer.csprojResolveAssemblyReference.cache
+c:\users\str8\documents\visual studio 2015\Projects\Gruppenprüfer\Gruppenprüfer\obj\Debug\Gruppenprüfer.Form1.resources
+c:\users\str8\documents\visual studio 2015\Projects\Gruppenprüfer\Gruppenprüfer\obj\Debug\Gruppenprüfer.Properties.Resources.resources
+c:\users\str8\documents\visual studio 2015\Projects\Gruppenprüfer\Gruppenprüfer\obj\Debug\Gruppenprüfer.csproj.GenerateResource.Cache
+c:\users\str8\documents\visual studio 2015\Projects\Gruppenprüfer\Gruppenprüfer\obj\Debug\Gruppenprüfer.exe
+c:\users\str8\documents\visual studio 2015\Projects\Gruppenprüfer\Gruppenprüfer\obj\Debug\Gruppenprüfer.pdb
